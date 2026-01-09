@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Cream/Beige Circle Background -->
+  <circle cx="50" cy="50" r="48" fill="#F5F0E6"/>
+  
+  <!-- Dark ring around the circle -->
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#3D3D3D" stroke-width="3"/>
+  
+  <!-- Solora Text -->
+  <text 
+    x="50" 
+    y="56" 
+    font-family="Georgia, serif" 
+    font-size="16" 
+    font-weight="500" 
+    fill="#3D3D3D" 
+    text-anchor="middle"
+    letter-spacing="1"
+  >Solora</text>
+</svg>
